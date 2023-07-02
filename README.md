@@ -2,7 +2,7 @@
 
 Viewport based (vh & vw) page ruler.
 
-<img src="https://github.com/blobbybilb/viewler/assets/58201828/6e79323f-4985-4e45-aa13-7f88444ecd0c" alt="image of vieler rulers" width=300 />
+<img src="https://github.com/blobbybilb/viewler/blob/main/image.png?raw=true" alt="image of vieler rulers" width=300 />
 
 A simple page ruler that uses the viewport based units, vw and vh. It also has marks that show where the mouse is on both rulers.
 
