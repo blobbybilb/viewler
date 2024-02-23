@@ -7,6 +7,9 @@ Viewport based (vh & vw) page ruler.
 A simple page ruler that uses the viewport based units, vw and vh. It also has marks that show where the mouse is on both rulers.
 
 [Demo](https://viewler.pages.dev)
+[Chrome](https://chromewebstore.google.com/detail/viewler/pcmkkilppmmgfdgminlellhbdjpbjmmh)
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/viewler/)
+_**Safari** (coming soon)_
 
 ### Usage
 Available from the chrome/edge/firefox stores. Safari version coming soon 😬.
